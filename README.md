@@ -54,7 +54,7 @@ To Explain this concept of version controll we are going to create a repository 
 
 ## 3. GitHub tutorial
 
-![Alt](app\assets\images\first-trip-i.jpg)
+![image](https://github.com/pieterAsit4u/travel-site/blob/master/app/assets/images/first-trip-low-res-i.jpg)
 
 ```git
 git clone 
