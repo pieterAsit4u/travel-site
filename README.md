@@ -1,5 +1,5 @@
 
-# **Source controll tutorial**
+# **Version Controll Tutorial**
 
 ## Required software
 * Git
