@@ -1,5 +1,5 @@
 
-# **Version Controll Tutorial**
+# **Version Control Tutorial**
 
 ## Required software
 * Git
@@ -16,7 +16,7 @@ To check ig you have git installed on your browser open comand line and type in 
 
 ***git version 2.18.0.windows.1***
 
-At Asit4u we use Source tree as our GUI tool for source controll. If you do not already have it installed you can go to :
+At Asit4u we use Source tree as our GUI tool for source control. If you do not already have it installed you can go to :
 
 https://www.sourcetreeapp.com/
 
@@ -36,13 +36,13 @@ or
 
 choco install kdiff3
 
-## 2. Inroduction to version controll.
+## 2. Inroduction to version control.
 
 - What is Git?
 
 *Git* is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance.
 
-- Why do we use version controll?
+- Why do we use version control?
 
 Version control software keeps track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
 
@@ -50,7 +50,7 @@ For almost all software projects, the source code is like the crown jewels - a p
 
 Software developers working in teams are continually writing new source code and changing existing source code. The code for a project, app or software component is typically organized in a folder structure or "file tree". One developer on the team may be working on a new feature while another developer fixes an unrelated bug by changing code, each developer may make their changes in several parts of the file tree.
 
-To Explain this concept of version controll we are going to create a repository (we refer to projects as repositorys in source controll) on GitHub/Bit Bucket and make a few changes to the source code.
+To Explain this concept of version control we are going to create a repository (we refer to projects as repositorys in source control) on GitHub/Bit Bucket and make a few changes to the source code.
 
 ## 3. GitHub tutorial
 
