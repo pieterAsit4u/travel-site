@@ -1,5 +1,5 @@
 
-# **Version Controll Tutorial**
+# **Source controll tutorial**
 
 ## Required software
 * Git
@@ -53,6 +53,8 @@ Software developers working in teams are continually writing new source code and
 To Explain this concept of version controll we are going to create a repository (we refer to projects as repositorys in source controll) on GitHub/Bit Bucket and make a few changes to the source code.
 
 ## 3. GitHub tutorial
+
+![image](https://github.com/pieterAsit4u/travel-site/blob/master/app/assets/images/first-trip-low-res-i.jpg)
 
 ```git
 git clone 
